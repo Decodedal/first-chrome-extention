@@ -1,0 +1,11 @@
+{
+    "name":"Riddle Me This",
+    "version": "1.0.0",
+    "description":"Endless stream of riddles",
+    "manifest_version": 3,
+    "author": "Dallas Palumbo",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Riddle Me This"
+    }
+}
